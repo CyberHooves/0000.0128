@@ -1,0 +1,206 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "68413b2d-fd4c-432f-89e8-1ae777839191")
+	(paper "A4")
+	(title_block
+		(title "Level controls for 0000.011F")
+		(date "2025-08-23")
+		(rev "1.0")
+		(company "Haos Redro")
+		(comment 1 "This is marked Creative Commons CC0 1.0")
+		(comment 2 "By Taiyo Rawle")
+		(comment 3 "Haos Redro PN 0000.0128")
+	)
+	(lib_symbols)
+	(sheet
+		(at 127 101.6)
+		(size 38.1 12.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "22e45a6b-6c75-4a34-8cb7-1658a1a15c64")
+		(property "Sheetname" "Variant 4"
+			(at 127 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "V4.kicad_sch"
+			(at 127 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Active individual level controls"
+			(at 127 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "0000.0128"
+				(path "/68413b2d-fd4c-432f-89e8-1ae777839191"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 101.6)
+		(size 38.1 12.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d521d8a1-d94d-4ea5-aac3-5d0d71759a49")
+		(property "Sheetname" "Variant 3"
+			(at 76.2 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "V3.kicad_sch"
+			(at 76.2 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Active volume/balance"
+			(at 76.2 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "0000.0128"
+				(path "/68413b2d-fd4c-432f-89e8-1ae777839191"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 38.1 12.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e4fd8cf0-9425-4c36-a2a2-cf37261ef010")
+		(property "Sheetname" "Variant 2"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "V2.kicad_sch"
+			(at 127 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Passive volume/balance"
+			(at 127 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "0000.0128"
+				(path "/68413b2d-fd4c-432f-89e8-1ae777839191"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 76.2)
+		(size 38.1 12.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ebcb2bda-7847-460d-bcd5-dc53cc967d7b")
+		(property "Sheetname" "Variant 1"
+			(at 76.2 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "v1.kicad_sch"
+			(at 76.2 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Passive individual level controls"
+			(at 76.2 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "0000.0128"
+				(path "/68413b2d-fd4c-432f-89e8-1ae777839191"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

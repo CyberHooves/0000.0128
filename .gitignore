@@ -1,0 +1,14 @@
+# no need to include the backups directory.
+*-backups
+*.bak
+*.FCStd1
+
+# ...or the lock files.
+*.lck
+
+# ..or the autosaves.
+_autosave-*
+'#auto_saved_files#'
+
+# or this.
+fp-info-cache
