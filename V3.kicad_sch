@@ -6419,6 +6419,7 @@
 	(symbol
 		(lib_id "Device:R_Potentiometer_MountingPin")
 		(at 63.5 101.6 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6426,7 +6427,7 @@
 		(dnp no)
 		(uuid "a3d0ad34-61d6-4345-b8ed-568d474b700c")
 		(property "Reference" "RV7"
-			(at 64.77 95.25 0)
+			(at 64.77 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6435,7 +6436,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 64.77 97.79 0)
+			(at 64.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
