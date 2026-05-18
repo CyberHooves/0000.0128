@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "68413b2d-fd4c-432f-89e8-1ae777839191")
 	(paper "A4")
 	(title_block
@@ -17,6 +17,10 @@
 	(sheet
 		(at 127 101.6)
 		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -63,6 +67,10 @@
 	(sheet
 		(at 76.2 101.6)
 		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -109,6 +117,10 @@
 	(sheet
 		(at 127 76.2)
 		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -155,6 +167,10 @@
 	(sheet
 		(at 76.2 76.2)
 		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -203,4 +219,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
